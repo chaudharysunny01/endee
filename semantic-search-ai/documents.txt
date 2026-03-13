@@ -1,0 +1,7 @@
+Artificial Intelligence enables machines to simulate human intelligence.
+
+Machine learning is a subset of AI that learns patterns from data.
+
+Vector databases store embeddings and enable semantic search.
+
+Natural language processing helps computers understand human language.
